@@ -1,4 +1,3 @@
 # maze-game
 
-LINK APLIKASI .EXE
-LINK DRIVE
+LINK APLIKASI .EXE https://github.com/alxndrzk/maze-game
